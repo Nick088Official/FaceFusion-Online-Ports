@@ -1,6 +1,11 @@
-# Face-Fusion-AI-Deepfake-Manual-Google-Colab-Notebook
-Deepfake Manual Colab for Face Fusion as the UI one could have some problems with long videos
+# FaceFusion-AI-Deepfake-Google-Colab-Jupyter-Notebook
+As the official FaceFusion Colab won't be supported anymore, you can use those UI & NO UI Google Colabs.
 # Usage
-- Run <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Face-Fusion-Headless-Colab/blob/main/Face_Fusion_Headless_No_UI.ipynb">
+- Run NO UI<a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_Headless_No_UI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+- Run UI **(WARNING: COULD RISK YOUR FREE COLAB TIER ACC)** <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_UI.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
