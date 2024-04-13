@@ -21,3 +21,8 @@ Credits: [Nick088](https://linktr.ee/Nick088) (making the no ui one and now taki
 
 ## Hugging Face Space
 [Hugging Face Space](https://huggingface.co/spaces/Nick088/FaceFusion)
+
+
+# Changelog
+## Update - April 13th, 2024
+Updated facefusion 2.4.1 to 2.5.0 to both colabs and also the added Hugging Face Space
