@@ -1,5 +1,7 @@
 # FaceFusion-AI-Deepfake-Google-Colab-Jupyter-Notebook & Hugging Face Space
 
+[![Discord](https://img.shields.io/discord/1198701940511617164?color=%23738ADB&label=Discord&style=for-the-badge)](https://discord.gg/dnrgs5GHfG)
+
 As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those UI & NO UI Google Colabs.
 
 The new FaceFusion update 2.4.1 made some issues with the encoding of the output deepfake videos, so in this repo there's a fixed version, idk why but also older versions of FaceFusion now gets also the same problem lol
