@@ -29,6 +29,6 @@ Credits: [Nick088](https://linktr.ee/Nick088) (making the no ui one and now taki
 ## Update - April 16th, 2024
 Updated facefusion 2.5.0 to 2.5.1 to both colabs and Hugging Face Space
 
-Also now fixed the Gradio Public Link not appearing after the update
+Also now fixed the Gradio Public Link not appearing after the update in the Google Colab UI
 ## Update - April 13th, 2024
 Updated facefusion 2.4.1 to 2.5.0 to both colabs and also the added Hugging Face Space
