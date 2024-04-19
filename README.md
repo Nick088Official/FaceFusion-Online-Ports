@@ -13,6 +13,8 @@ Credits: [Nick088](https://linktr.ee/Nick088) (making the no ui one and now taki
 
 ## Google Colab
 
+**WARNING: YOU COULD RISK YOUR COLAB FREE TIER ACCOUNT**
+
 - Run NO UI<a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_Headless_No_UI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
