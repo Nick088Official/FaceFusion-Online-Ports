@@ -28,6 +28,8 @@ Credits: [Nick088](https://linktr.ee/Nick088) (making the no ui one and now taki
 
 
 # Changelog
+## Update - April 19th, 2024
+Updated facefusion 2.5.1 to 2.5.2 for the colabs & hf space, also added a step for non google chrome users to manually upload inputs in the no ui cokab as it had problems with the cell code for some reason
 ## Update - April 16th, 2024
 Updated facefusion 2.5.0 to 2.5.1 to both colabs and Hugging Face Space
 
