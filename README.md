@@ -6,9 +6,7 @@ As the official FaceFusion Colabs won't be supported anymore, because FaceFusion
 
 The new FaceFusion old colab made some issues with the encoding of the output deepfake videos, so in this repo there's a fixed version!
 
-**NOTE:** Google Colab does NOT allow Deepfakes, so these colab could risk your free tier colab account
-
-Credits: [Nick088](https://linktr.ee/Nick088) (making the no ui one and now taking support unofficially of FaceFusion colabs), Lusbert (Fixing the Encoding Output Deepfake), [Original FaceFusion team](https://github.com/facefusion/facefusion) (for making the program and the old ui colab before they stopped giving support)
+Credits: [Nick088](https://linktr.ee/Nick088) (taking support unofficially of FaceFusion online ports), Lusbert (Fixing the Encoding Output Deepfake), [Original FaceFusion team](https://github.com/facefusion/facefusion) (for making the program and the old ui colab before they stopped giving support)
 # Usage
 
 ## Google Colab
