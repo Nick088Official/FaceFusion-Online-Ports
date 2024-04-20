@@ -2,9 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/1198701940511617164?color=%23738ADB&label=Discord&style=for-the-badge)](https://discord.gg/dnrgs5GHfG)
 
-As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those UI & NO UI Google Colabs Or Hugging Face Space.
-
-The new FaceFusion old colab made some issues with the encoding of the output deepfake videos, so in this repo there's a fixed version!
+As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those Online Unofficial Free Ports.
 
 Credits: [Nick088](https://linktr.ee/Nick088) (taking support unofficially of FaceFusion online ports), Lusbert (Fixing the Encoding Output Deepfake), [Original FaceFusion team](https://github.com/facefusion/facefusion) (for making the program and the old ui colab before they stopped giving support)
 # Usage
