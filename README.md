@@ -33,12 +33,12 @@ Credits: [Nick088](https://linktr.ee/Nick088) (taking support unofficially of Fa
 
 # Changelog
 ## Update - April 21th, 2024
-Made the ui & no ui colabs install faster by not downloading the cuda toolkit as its already preinstalled, and also added kaggle options. Also made readme maybe prettier to look at
+Added kaggle options. Also made readme maybe prettier to look at.. Also previously today i deleted cuda toolkit in the installation as i thought it was preinstalled but i was wrong so i added it back and now should all work fine on all ports. 
 ## Update - April 19th, 2024
-Updated facefusion 2.5.1 to 2.5.2 for the colabs & hf space, also added a step for non google chrome users to manually upload inputs in the no ui cokab as it had problems with the cell code for some reason
+Updated facefusion 2.5.1 to 2.5.2 for the colabs & hf space, also added a step for non google chrome users to manually upload inputs in the no ui cokab as it had problems with the cell code for some reason.
 ## Update - April 16th, 2024
-Updated facefusion 2.5.0 to 2.5.1 to both colabs and Hugging Face Space
+Updated facefusion 2.5.0 to 2.5.1 to both colabs and Hugging Face Space.
 
-Also now fixed the Gradio Public Link not appearing after the update in the Google Colab UI
+Also now fixed the Gradio Public Link not appearing after the update in the Google Colab UI.
 ## Update - April 13th, 2024
-Updated facefusion 2.4.1 to 2.5.0 to both colabs and also the added Hugging Face Space
+Updated facefusion 2.4.1 to 2.5.0 to both colabs and also the added Hugging Face Space.
