@@ -23,6 +23,9 @@ Credits: [Nick088](https://linktr.ee/Nick088) (taking support unofficially of Fa
 [Hugging Face Space](https://huggingface.co/spaces/Nick088/FaceFusion)
 
 ## Kaggle
+
+**WARNING: YOU COULD RISK YOUR KAGGLE FREE TIER ACCOUNT**
+
 - [Run UI](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
 
 - [Run NO UI](https://www.kaggle.com/code/nick088/facefusion-headless-no-ui/notebook)
