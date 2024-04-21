@@ -29,7 +29,7 @@ Credits: [Nick088](https://linktr.ee/Nick088) (taking support unofficially of Fa
 
 
 # Changelog
-## Update - April 19th, 2024
+## Update - April 21th, 2024
 Made the ui & no ui colabs install faster by not downloading the cuda toolkit as its already preinstalled, and also added kaggle options
 ## Update - April 19th, 2024
 Updated facefusion 2.5.1 to 2.5.2 for the colabs & hf space, also added a step for non google chrome users to manually upload inputs in the no ui cokab as it had problems with the cell code for some reason
