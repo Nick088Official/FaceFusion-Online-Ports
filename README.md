@@ -32,6 +32,8 @@ Credits: [Nick088](https://linktr.ee/Nick088) (taking support unofficially of Fa
 
 
 # Changelog
+## Update - April 22th, 2024
+Fixed kaggle ui not showing the public ngrok url and cuda nvidia toolkit not installing because it asks for confirmation
 ## Update - April 21th, 2024
 Added kaggle options. Also made readme maybe prettier to look at.. Also previously today i deleted cuda toolkit in the installation as i thought it was preinstalled but i was wrong so i added it back and now should all work fine on all ports. 
 ## Update - April 19th, 2024
