@@ -9,7 +9,7 @@ As the official FaceFusion Colabs won't be supported anymore, because FaceFusion
 Credits: I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) and ofc the program by [Original FaceFusion team](https://github.com/facefusion/facefusion).
 # Usage
 
-## Google Colab ![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
+## Google Colab
 
 **WARNING: YOU COULD RISK YOUR COLAB FREE TIER ACCOUNT**
 
@@ -21,10 +21,10 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## Hugging Face Space 🤗
+## Hugging Face Space
 [Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion)
 
-## Kaggle ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+## Kaggle
 
 **WARNING: YOU COULD RISK YOUR KAGGLE FREE TIER ACCOUNT**
 
