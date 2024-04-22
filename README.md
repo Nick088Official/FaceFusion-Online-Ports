@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/1198701940511617164?color=%23738ADB&label=Discord&style=for-the-badge)](https://discord.gg/dnrgs5GHfG)
 
-As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those Online Unofficial Free Ports! I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) only.
+As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those Online Unofficial Free Ports! I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) and ofc the program by [Original FaceFusion team](https://github.com/facefusion/facefusion).
 
 Credits: [Nick088](https://linktr.ee/Nick088) (taking support unofficially of FaceFusion online ports), Lusbert (Fixing the Encoding Output Deepfake), [Original FaceFusion team](https://github.com/facefusion/facefusion) (for making the program and the old ui colab before they stopped giving support)
 # Usage
