@@ -22,6 +22,9 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 </a>
 
 ## Hugging Face Space
+
+**CURRENTLY, ITS HAVING A PROBLEM ON DUPLICATING ON GPU FOR SOME CUDA OR CUDNN ISSUE, PLEASE IF YOU WANNA HELP JOIN THE DISCORD SERVER ABOVE TO CONTACT US!**
+
 [Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion)
 
 ## Kaggle
