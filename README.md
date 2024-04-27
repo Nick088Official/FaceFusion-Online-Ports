@@ -5,7 +5,6 @@
 As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those Online Unofficial Free Ports!
 
 
-
 Credits: I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) and ofc the program by [Original FaceFusion team](https://github.com/facefusion/facefusion).
 # Usage
 
@@ -13,11 +12,11 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 **WARNING: YOU COULD RISK YOUR COLAB FREE TIER ACCOUNT**
 
-- Run NO UI<a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_Headless_No_UI.ipynb">
+- Run UI <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_UI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Run UI <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_UI.ipynb">
+- Run NO UI<a target="_blank" href="https://colab.research.google.com/github/Nick088Official/FaceFusion-Colab/blob/main/FaceFusion_Headless_No_UI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -29,7 +28,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 ## Kaggle
 
-**WARNING: YOU COULD RISK YOUR KAGGLE FREE TIER ACCOUNT**
+**WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT**
 
 - [Run UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
 
@@ -37,8 +36,10 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 
 # Changelog
+## Update - April 27th, 2024
+Added Ngrok Tunnel Option for FaceFusion UI Colab so if there are Gradio API issues, you can use Ngrok instead. Also found out there's an error into using the GPU on the Hugging Face Space, if you wanna help us into resolving it please contact us via the discord server at the top.
 ## Update - April 22th, 2024
-Fixed kaggle ui not showing the public ngrok url and cuda nvidia toolkit not installing because it asks for confirmation. Also shortened up the code to launch ui in kaggle and colab thx to [hina](https://linktr.ee/_hina__) and andjusted the credits to add her ofc.
+Fixed kaggle ui not showing the public ngrok url and cuda nvidia toolkit not installing because it asks for confirmation. Also shortened up the code to launch ui in kaggle and colab thx to [hina](https://linktr.ee/_hina__) and adjusted the credits to add her ofc.
 ## Update - April 21th, 2024
 Added kaggle options. Also made readme maybe prettier to look at.. Also previously today i deleted cuda toolkit in the installation as i thought it was preinstalled but i was wrong so i added it back and now should all work fine on all ports. 
 ## Update - April 19th, 2024
