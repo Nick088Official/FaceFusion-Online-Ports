@@ -28,9 +28,9 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 ## Kaggle
 
-**WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT**
 
-- [Run UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
+
+- [Run UI (**WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT**) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
 
 - [Run NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-headless-no-ui/notebook)
 
