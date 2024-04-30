@@ -36,6 +36,8 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 
 # Changelog
+## Update - April 30th, 2024
+Added Cloudfare Tunnel Option for FaceFusion UI Colab
 ## Update - April 27th, 2024
 Added Ngrok Tunnel Option for FaceFusion UI Colab so if there are Gradio API issues, you can use Ngrok instead. Also found out there's an error into using the GPU on the Hugging Face Space, if you wanna help us into resolving it please contact us via the discord server at the top.
 ## Update - April 22th, 2024
