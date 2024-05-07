@@ -36,6 +36,8 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 
 # Changelog
+## Update - May 7st, 2024
+As the tinyurl was giving issues for the Notebooks to git clone Facefusion, I replaced that bypass with rot13 method instead (so that it still doesn't get detected).
 ## Update - May 1st, 2024
 Added LocalTunnel Tunnel Option for FaceFusion UI Colab & Kaggle.
 ## Update - April 30th, 2024
