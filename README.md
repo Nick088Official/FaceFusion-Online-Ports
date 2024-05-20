@@ -37,6 +37,8 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - May 20th, 2024
+Updated to facefusion 2.6.0
 ## Update - May 10th, 2024
 Updated to facefusion 2.5.3
 ## Update - May 7th, 2024
