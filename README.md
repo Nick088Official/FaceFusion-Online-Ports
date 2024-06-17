@@ -28,7 +28,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 ## Kaggle
 
-
+### IM CURRENTLY BANNED OFF KAGGLE, THEY CAN'T BE USED.
 
 - [Run UI **(WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT)** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
 
@@ -36,6 +36,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 
 # Changelog
+Updated to FaceFusion 2.6.1, also added `!apt-get update` as it would fix issues with running it on Google Colab PRO as said in https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/10. The kaggles currently doesn't work as i got banned off Kaggle :(
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
 ## Update - June 7th, 2024
 As Google Colab updated from cuda 11.8 to 12.2, i updated both colabs and also updated the colab workarounds guide.
