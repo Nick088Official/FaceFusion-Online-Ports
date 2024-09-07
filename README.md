@@ -34,9 +34,13 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 - [Run NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-headless-no-ui/notebook)
 
+## Lightning AI
+[Studio Notebook UI](https://lightning.ai/nick088/studios/facefusion-ui)
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - September 7th, 2024
+Added Lightning AI UI Notebook.
 ## Update - August 1st & 2nd, 2024
 Added an option to choose the github facefusion branch for the google colabs and the hugging face space, 'master' is the latest official release, 'next' is the beta one with in-development features.
 ## Update - June 17th, 2024
