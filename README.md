@@ -35,7 +35,8 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 - [Run NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-headless-no-ui/notebook)
 
 ## Lightning AI
-[Studio Notebook UI](https://lightning.ai/nick088/studios/facefusion-ui)
+[Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
+](https://lightning.ai/nick088/studios/facefusion-ui)
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
