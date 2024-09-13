@@ -40,7 +40,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
-## Update - September 7th, 2024
+## Update - September 12th & 13th, 2024
 As Google Colab detected FaceFusion, reported [here](https://github.com/Nick088Official/FaceFusion-Online-Ports/commit/46b50fefa9b03a79c834fee7410f66559c682406), I added more encryption for both UI & NO UI Colabs so it doesn't get detected anymore.
 ## Update - September 7th, 2024
 Added Lightning AI UI Notebook.
