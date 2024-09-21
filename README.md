@@ -40,8 +40,10 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - September 21th, 2024
+Removed the choose branch option as the 'next' branch got merged into to the 'master' (facefusion 3.0.0) for lightning.ai port.
 ## Update - September 20th, 2024
-Fix typos, other issues, and removed the choose branch option as the 'next' branch got merged into to the 'master' (facefusion 3.0.0)
+Fix typos, other issues, and removed the choose branch option as the 'next' branch got merged into to the 'master' (facefusion 3.0.0) for the colabs and hf space.
 ## Update - September 19th, 2024
 Fix https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/16
 ## Update - September 12th to 14th, 2024
