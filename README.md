@@ -38,8 +38,22 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 [Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
 ](https://lightning.ai/nick088/studios/facefusion-ui)
 
+# FAQ
+
+## (GOOGLE COLABS ONLY) Is there still a chance for getting banned/disconnected?
+
+My colabs have multiple layers of obfuscation & encryption. I try everything I can for make it run the longest, but there are still some pretty low chances of getting banned, which i had only 1 report during the whole time that I have made those colabs. About getting disconnected for disallowed code there could be some chances as Google Colab's detection system can change per time, and it's kind of random as generally speaking in banned colabs, I seen some able to run it for 3 hours, some others for less, which I suggest trying different accounts and luck, and also [making an issue](https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/new) if the detection becomes often.
+
+## Are you going to help to remove the NSFW Filter? Or make a way to use FaceFusion without filter?
+
+No as FaceFusion doesn't allow deepnudes.
+
+##
+
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - September 22th, 2024
+Added a FAQ on this Github Repository.
 ## Update - September 21th, 2024
 Removed the choose branch option as the 'next' branch got merged into to the 'master' (facefusion 3.0.0) for lightning.ai port. Both colabs now have an option for google drive (which use the same folder) and also now both rename 'facefusion' in outputs (like the [FACEFUSION.CORE]) to 'program' trying to help to not get detected.
 ## Update - September 20th, 2024
