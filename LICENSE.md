@@ -34,3 +34,11 @@ Nick088 provides the Software "as is", without warranty of any kind, express or 
 ## 7. Governing Law
 
 This license is governed by the laws of the jurisdiction in which Nick088 resides. Any disputes related to this license will be resolved in the courts of that jurisdiction.
+
+## 8. FaceFusion's License
+
+This repository contains .ipynb files that utilize the FaceFusion program. The program license is:
+
+> MIT license
+> 
+> Copyright (c) 2024 Henry Ruhs
