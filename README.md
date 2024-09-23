@@ -46,7 +46,7 @@ My colabs have multiple layers of obfuscation & encryption. I try everything I c
 
 ## Are you going to help to remove the NSFW Filter? Or make a way to use FaceFusion without filter?
 
-No as FaceFusion doesn't allow deepnudes.
+No as FaceFusion doesn't allow deepnudes. If you make an issue for issues/help related to removing the NSFW filter, I'm not going to help for that.
 
 ##
 
