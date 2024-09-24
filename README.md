@@ -26,17 +26,17 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 [Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion)
 
+## Lightning AI
+[Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
+](https://lightning.ai/nick088/studios/facefusion-ui)
+
 ## Kaggle
 
-### IM CURRENTLY BANNED OFF KAGGLE, THEY CAN'T BE USED.
+### IM CURRENTLY BANNED OFF KAGGLE, THEY CAN'T BE USED. **WARNING: YOU COULD RISK YOUR COLAB FREE TIER ACCOUNT**
 
 - [Run UI **(WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT)** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
 
 - [Run NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-headless-no-ui/notebook)
-
-## Lightning AI
-[Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
-](https://lightning.ai/nick088/studios/facefusion-ui)
 
 # FAQ
 
@@ -52,6 +52,8 @@ No as FaceFusion doesn't allow deepnudes. If you make an issue for issues/help r
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - September 24th, 2024
+Update censor output trying to help to not get detected for the Colabs.
 ## Update - September 22th, 2024
 Added a FAQ on this Github Repository.
 ## Update - September 21th, 2024
