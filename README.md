@@ -42,7 +42,18 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 ## (GOOGLE COLABS ONLY) Is there still a chance for getting banned/disconnected?
 
-My colabs have multiple layers of obfuscation & encryption. I try everything I can for make it run the longest, but there are still some pretty low chances of getting banned, which i had only 1 report during the whole time that I have made those colabs. About getting disconnected for disallowed code there could be some chances as Google Colab's detection system can change per time, and it's kind of random as generally speaking in banned colabs, I seen some able to run it for 3 hours, some others for less, which I suggest trying different accounts and luck, and also [making an issue](https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/new) if the detection becomes often.
+My colabs have multiple layers of obfuscation & encryption. I try everything I can for make it run the longest,
+
+But there are still some pretty low chances of getting banned, which i had only 1 report during the whole time that I have made those colabs.
+
+About getting disconnected for disallowed code there could be some chances as Google Colab's detection system can change per time, and it's kind of random as generally speaking in banned colabs, I seen some able to run it for 3 hours, some others for less.
+
+My suggestions are:
+- Try with different accounts
+- Retry and luck
+- Considerating the [lightning.ai port](https://github.com/Nick088Official/FaceFusion-Online-Ports/blob/main/README.md#lightning-ai) as a free alternative as they don't have anything against web uis & deepfakes
+
+You can [make an issue](https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/new) if the detection becomes too often.
 
 ## Are you going to help to remove the NSFW Filter? Or make a way to use FaceFusion without filter?
 
@@ -53,7 +64,7 @@ No as FaceFusion doesn't allow deepnudes. If you make an issue for issues/help r
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
 ## Update - September 24th, 2024
-Update censor output trying to help to not get detected for the Colabs.
+Update censor output trying to help to not get detected for the Colabs and adjust FAQ.
 ## Update - September 22th, 2024
 Added a FAQ on this Github Repository.
 ## Update - September 21th, 2024
