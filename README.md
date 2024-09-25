@@ -41,6 +41,20 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 # FAQ
 
+## Which ports do you suggest?
+
+Depends if you want..
+
+- **Long sessions/videos:** [Lightning.ai](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#lightning-ai) as it has nothing against deepfakes or web uis, it's the fastest and most stable FREE port at the moment.
+
+- **Most FREE GPU time:** [Google Colab](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colab) as it gives around 120 hours per month (4 hours a day), but it's not stable as the free resources are not guaranteed, and on the free tier you could have issues as it's not allowed (but I use encryption to help this, check [this](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colabs-only-is-there-still-a-chance-for-getting-banneddisconnected)).
+
+- **Easiest to setup:** [Hugging Face Space](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#hugging-face-space) which you just need to duplicate the space, but its slower as it runs on CPU, better to use it just for images not videos.
+
+## Are you going to help to remove the NSFW Filter? Or make a way to use FaceFusion without filter?
+
+No as FaceFusion doesn't allow deepnudes. If you make an issue for issues/help related to removing the NSFW filter, I'm not going to help for that.
+
 ## (GOOGLE COLABS ONLY) Is there still a chance for getting banned/disconnected?
 
 My colabs have multiple layers of obfuscation & encryption. I try everything I can for make it run the longest,
@@ -56,21 +70,9 @@ My suggestions are:
 
 You can [make an issue](https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/new) if the detection becomes too often.
 
-## Are you going to help to remove the NSFW Filter? Or make a way to use FaceFusion without filter?
+## (GOOGLE COLAB ONLY) If i pay for pro subscription, will I be safe from being disconnected/banned?
 
-No as FaceFusion doesn't allow deepnudes. If you make an issue for issues/help related to removing the NSFW filter, I'm not going to help for that.
-
-## Which ports do you suggest?
-
-Depends if you want..
-
-- **Long sessions/videos:** [Lightning.ai](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#lightning-ai) as it has nothing against deepfakes or web uis.
-
-- **Most FREE GPU time:** [Google Colab](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colab) as it gives around 120 hours per month (4 hours a day), but it's not stable as the free resources are not guaranteed, and on the free tier you could have issues as it's not allowed (but I use encryption to help this, check [this](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colabs-only-is-there-still-a-chance-for-getting-banneddisconnected)).
-
-- **Easiest to setup:** [Hugging Face Space](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#hugging-face-space) which you just need to duplicate the space, but its slower as it runs on CPU, better to use it just for images not videos.
-
-##
+Yes, paid colab users don't have issues with restricted things like Web UIs and Deepfakes.
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
