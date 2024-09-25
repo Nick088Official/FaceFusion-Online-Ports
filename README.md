@@ -45,7 +45,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 Depends if you want..
 
-- **Long sessions/videos, most stable one for free:** [Lightning.ai](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#lightning-ai) as it has nothing against deepfakes or web uis, it's the fastest and most stable FREE port at the moment.
+- **Long sessions/videos, most stable one for FREE:** [Lightning.ai](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#lightning-ai) as it has nothing against deepfakes or web uis, it's the fastest and most stable FREE port at the moment.
 
 - **Most FREE GPU time:** [Google Colab](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colab) as it gives around 120 hours per month (4 hours a day), but it's not stable as the free resources are not guaranteed, and on the free tier you could have issues as it's not allowed (but I use encryption to help this, check [this](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colabs-only-is-there-still-a-chance-for-getting-banneddisconnected)).
 
