@@ -20,15 +20,16 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## Hugging Face Space
-
-**CURRENTLY, ITS HAVING A PROBLEM ON DUPLICATING ON GPU FOR SOME CUDA OR CUDNN ISSUE, PLEASE IF YOU WANNA HELP JOIN THE DISCORD SERVER ABOVE TO CONTACT US!**
-
-[Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion)
-
 ## Lightning AI
 [Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
 ](https://lightning.ai/nick088/studios/facefusion-ui)
+
+## Hugging Face Space
+
+**CURRENTLY, IT RUNS ONLY ON CPU (SLOW:
+),ITS HAVING A PROBLEM ON DUPLICATING ON GPU FOR SOME CUDA OR CUDNN ISSUE, PLEASE IF YOU WANNA HELP JOIN THE DISCORD SERVER ABOVE TO CONTACT US!**
+
+[Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion)
 
 ## Kaggle
 
@@ -59,10 +60,22 @@ You can [make an issue](https://github.com/Nick088Official/FaceFusion-Online-Por
 
 No as FaceFusion doesn't allow deepnudes. If you make an issue for issues/help related to removing the NSFW filter, I'm not going to help for that.
 
+## Which ports do you suggest?
+
+Depends if you want..
+
+- **Long sessions/videos:** [Lightning.ai](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#lightning-ai) as it has nothing against deepfakes or web uis.
+
+- **Most FREE GPU time:** [Google Colab](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colab) as it gives around 120 hours per month (4 hours a day), but it's not stable as the free resources are not guaranteed, and on the free tier you could have issues as it's not allowed (but I use encryption to help this, check [this](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#google-colabs-only-is-there-still-a-chance-for-getting-banneddisconnected)).
+
+- **Easiest to setup:** [Hugging Face Space](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#hugging-face-space) which you just need to duplicate the space, but its slower as it runs on CPU, better to use it just for images not videos.
+
 ##
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - September 25th, 2024
+Update FAQ.
 ## Update - September 24th, 2024
 Update censor output trying to help to not get detected for the Colabs and adjust FAQ.
 ## Update - September 22th, 2024
