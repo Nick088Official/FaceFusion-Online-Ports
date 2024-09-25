@@ -70,9 +70,9 @@ My suggestions are:
 
 You can [make an issue](https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/new) if the detection becomes too often.
 
-## (GOOGLE COLAB ONLY) If i pay for pro subscription, will I be safe from being disconnected/banned?
+## (GOOGLE COLAB ONLY) If i pay for pro subscription, will I be always 100% safe from being disconnected/banned?
 
-Yes, paid colab users don't have issues with restricted things like Web UIs and Deepfakes.
+Yes, paid colab users don't have any issues with restricted things like Web UIs and Deepfakes. However I will try to make so the chance for free tier users is low too.
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
