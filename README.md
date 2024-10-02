@@ -74,6 +74,10 @@ You can [make an issue](https://github.com/Nick088Official/FaceFusion-Online-Por
 
 Yes, paid colab users don't have any issues with restricted things like Web UIs and Deepfakes. However I will try to make so the chance for free tier users is low too.
 
+## Will the Kaggle ports ever be back?
+
+Probably not. They instant ban you when you try to download FaceFusion (yes even with encryption).
+
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
 ## Update - September 25th, 2024
