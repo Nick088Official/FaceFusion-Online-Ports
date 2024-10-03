@@ -8,6 +8,13 @@ As the official FaceFusion Colabs won't be supported anymore, because FaceFusion
 Credits: I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) and ofc the program by [Original FaceFusion team](https://github.com/facefusion/facefusion).
 # Usage
 
+## Lightning AI
+
+[**YOUTUBE TUTORIAL!**](https://www.youtube.com/watch?v=aRIEcKVJKrY)
+
+[Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
+](https://lightning.ai/nick088/studios/facefusion-ui)
+
 ## Google Colab
 
 **WARNING: YOU COULD RISK YOUR COLAB FREE TIER ACCOUNT**
@@ -20,10 +27,6 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## Lightning AI
-[Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
-](https://lightning.ai/nick088/studios/facefusion-ui)
-
 ## Hugging Face Space
 
 **CURRENTLY, IT RUNS ONLY ON CPU (SLOW:
@@ -33,7 +36,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 ## Kaggle
 
-### IM CURRENTLY BANNED OFF KAGGLE, THEY CAN'T BE USED. **WARNING: YOU COULD RISK YOUR COLAB FREE TIER ACCOUNT**
+### IM CURRENTLY BANNED OFF KAGGLE, THEY CAN'T BE USED. **WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT**
 
 - [Run UI **(WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT)** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
 
