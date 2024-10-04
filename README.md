@@ -83,6 +83,10 @@ Probably not. They instant ban you when you try to download FaceFusion (yes even
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - October 4th, 2024
+Fix lightning.ai port ONNXRUNTIME issue when continuing from an old session (not using properly GPU), for more info: https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/25.
+## Update - October 3rd, 2024
+Added [Lightning.ai UI YOUTUBE TUTORIAL!](https://www.youtube.com/watch?v=aRIEcKVJKrY)
 ## Update - September 25th, 2024
 Update FAQ.
 ## Update - September 24th, 2024
