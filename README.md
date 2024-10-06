@@ -34,6 +34,11 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 
 [Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion)
 
+## PaperSpace
+[PaperSpace Gradient](https://github.com/gilroff/Facefusion-Paperspace/blob/main/Facefusion-Paperspace.ipynb)
+
+**NOT MINE!**, For issues of this port, make an issue [here](https://github.com/gilroff/Facefusion-Paperspace/issues)
+
 ## Kaggle
 
 ### IM CURRENTLY BANNED OFF KAGGLE, THEY CAN'T BE USED. **WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT**
@@ -83,6 +88,8 @@ Probably not. They instant ban you when you try to download FaceFusion (yes even
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - October 4th, 2024
+Added gilroff's PaperSpace port.
 ## Update - October 4th, 2024
 Fix lightning.ai port ONNXRUNTIME issue when continuing from an old session (not using properly GPU), for more info: https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/25.
 ## Update - October 3rd, 2024
