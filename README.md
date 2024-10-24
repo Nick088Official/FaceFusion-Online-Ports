@@ -32,7 +32,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 **CURRENTLY, IT RUNS ONLY ON CPU (SLOW:
 ),ITS HAVING A PROBLEM ON DUPLICATING ON GPU FOR SOME CUDA OR CUDNN ISSUE, PLEASE IF YOU WANNA HELP JOIN THE DISCORD SERVER ABOVE TO CONTACT US!**
 
-[Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion), as it's a public space, it's better you duplicate it for your own use with the 3 dots at the top right, and clicking duplicate space.
+[Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion), **duplicate it** for your own use with the 3 dots at the top right, and clicking duplicate space.
 
 ## PaperSpace
 [PaperSpace Gradient](https://github.com/gilroff/Facefusion-Paperspace/blob/main/Facefusion-Paperspace.ipynb)
@@ -88,8 +88,8 @@ Probably not. They instant ban you when you try to download FaceFusion (yes even
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
-## Update - October 22th, 2024
-Added info about the HuggingFace Space port.
+## Update - October 22-24th, 2024
+Added info about the HuggingFace Space port, because of https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/28.
 ## Update - October 4th, 2024
 Added gilroff's PaperSpace port.
 ## Update - October 4th, 2024
