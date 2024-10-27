@@ -88,6 +88,8 @@ Probably not. They instant ban you when you try to download FaceFusion (yes even
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - October 27th, 2024
+Fixed an issue with python-multipart https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/29 (the latest version released some hours ago was having issues with fastapi, Downgrading worked fine) for all ports (Both colabs, HF Space, Lightning.ai), fixed an issue on the No UI colab missing a part of code.
 ## Update - October 22-24th, 2024
 Added info about the HuggingFace Space port, because of https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/28.
 ## Update - October 4th, 2024
