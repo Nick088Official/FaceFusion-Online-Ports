@@ -32,7 +32,9 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 **CURRENTLY, IT RUNS ONLY ON CPU (SLOW:
 ),ITS HAVING A PROBLEM ON DUPLICATING ON GPU FOR SOME CUDA OR CUDNN ISSUE, PLEASE IF YOU WANNA HELP JOIN THE DISCORD SERVER ABOVE TO CONTACT US!**
 
-[Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion), **duplicate it** for your own use with the 3 dots at the top right, and clicking duplicate space.
+**THIS SPACE IS MEANT ONLY FOR PRIVATE USE VIA DUPLICATING IT, THE PUBLIC SPACE SHOULDN'T BE USED (AND IT'S PAUSED) BECAUSE OF A BUG (https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/28)**
+
+[Hugging Face Space🤗](https://huggingface.co/spaces/Nick088/FaceFusion) -> **DUPLICATE IT** for your own use: Click the 3 dots at the top right of the HuggingFace Space, **make sure the visibility is PRIVATE**, lastly click duplicate space.
 
 ## PaperSpace
 [PaperSpace Gradient](https://github.com/gilroff/Facefusion-Paperspace/blob/main/Facefusion-Paperspace.ipynb)
@@ -88,6 +90,8 @@ Probably not. They instant ban you when you try to download FaceFusion (yes even
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - December 25th, 2024
+Clearer info about the HuggingFace Space port, because of https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/28.
 ## Update - October 29th, 2024
 Removing the [python-multipart](https://github.com/Nick088Official/FaceFusion-Online-Ports?tab=readme-ov-file#update---october-27th-2024) & numpy hotfix as they are fixed in FaceFusion 3.0.1 in all ports, and fixing the FaceFusion Unofficial Ports github link in the ports.
 ## Update - October 27th, 2024
