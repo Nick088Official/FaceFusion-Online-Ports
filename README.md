@@ -2,10 +2,11 @@
 
 [![Discord](https://img.shields.io/discord/1198701940511617164?color=%23738ADB&label=Discord&style=for-the-badge)](https://discord.gg/Xw7yc2jA9w)
 
-As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those Online Unofficial Free Ports!
+As the official FaceFusion Colabs won't be supported anymore, because FaceFusion uses Paid Clouds like ThinkDiffusion & RunDiffusion, you can use those Online **Unofficial** Free Ports!
 
 
-Credits: I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) and ofc the program by [Original FaceFusion team](https://github.com/facefusion/facefusion).
+
+Credits: I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) and ofc the program by [Original FaceFusion team](https://github.com/facefusion/facefusion) which I'm not affiliated with (for official facefusion related issues, you should check [their discord](https://join.facefusion.io/)).
 # Usage
 
 ## Lightning AI
@@ -90,6 +91,8 @@ Probably not. They instant ban you when you try to download FaceFusion (yes even
 
 # Changelog
 These are the changelogs for the online ports, to see the updates of the program, please check [their releases here](https://github.com/facefusion/facefusion/releases).
+## Update - May 4th, 2025
+Clarified that I'm not affiliated with the Official FaceFusion Team (because of https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/38).
 ## Update - December 25th, 2024
 Clearer info about the HuggingFace Space port, because of https://github.com/Nick088Official/FaceFusion-Online-Ports/issues/28.
 ## Update - October 29th, 2024
