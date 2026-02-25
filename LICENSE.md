@@ -35,10 +35,10 @@ Nick088 provides the Software "as is", without warranty of any kind, express or 
 
 This license is governed by the laws of the jurisdiction in which Nick088 resides. Any disputes related to this license will be resolved in the courts of that jurisdiction.
 
-## 8. FaceFusion's License
+## 8. FaceFusion's License and Third-Party Models
 
-This repository contains .ipynb files that utilize the FaceFusion program. The program license is:
+This repository contains .ipynb scripts that facilitate the installation of the FaceFusion program. 
 
-> MIT license
-> 
-> Copyright (c) 2024 Henry Ruhs
+- **Software License:** FaceFusion is licensed under the **OpenRAIL-AS** license (Copyright (c) 2025 Henry Ruhs). By using these scripts, you agree to the usage restrictions defined in that license.
+- **Model Licenses:** These scripts download third-party AI models (e.g., Inswapper). These models are often provided under **Strictly Non-Commercial** licenses. 
+- **User Responsibility:** You are solely responsible for ensuring your use case complies with these licenses. Use on "Paid Cloud Tiers" where the provider profits from the compute used to run these models may be considered a violation of the model's non-commercial terms.
