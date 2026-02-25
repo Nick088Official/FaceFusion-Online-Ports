@@ -39,6 +39,6 @@ This license is governed by the laws of the jurisdiction in which Nick088 reside
 
 This repository contains .ipynb scripts that facilitate the installation of the FaceFusion program. 
 
-- **Software License:** FaceFusion is licensed under the **OpenRAIL-AS** license (Copyright (c) 2025 Henry Ruhs). By using these scripts, you agree to the usage restrictions defined in that license.
-- **Model Licenses:** These scripts download third-party AI models (e.g., Inswapper). These models are often provided under **Strictly Non-Commercial** licenses. 
+- **Software License:** FaceFusion is licensed under the **OpenRAIL-AS** license (Copyright (c) 2025 Henry Ruhs). By using these scripts, you agree to the usage restrictions defined in that license. You can check it in their [GitHub Repo](https://github.com/facefusion/facefusion/blob/main/LICENSE.md)
+- **Model Licenses:** These scripts download third-party AI models (e.g., Inswapper). Some of those models are provided under **Strictly Non-Commercial** licenses. You can check each model license in the [Official FaceFusion Documentation](https://docs.facefusion.io/introduction/licenses).
 - **User Responsibility:** You are solely responsible for ensuring your use case complies with these licenses. Use on "Paid Cloud Tiers" where the provider profits from the compute used to run these models may be considered a violation of the model's non-commercial terms.
