@@ -7,6 +7,11 @@ As the official FaceFusion Colabs won't be supported anymore, because FaceFusion
 
 
 Credits: I didn't make everything alone, every port has his own credits in it, except the hugging face one because it directly launches the UI, that was made by me ([Nick088](https://linktr.ee)) and ofc the program by [Original FaceFusion team](https://github.com/facefusion/facefusion) which I'm not affiliated with (for official facefusion related issues, you should check [their discord](https://join.facefusion.io/)).
+
+> [!CAUTION]
+> **LEGAL & LICENSING WARNING:** 
+> FaceFusion utilizes some AI models (such as Inswapper) that are strictly for **NON-COMMERCIAL** use. Running these scripts on "Paid" cloud instances (Google Colab Pro, Lightning.AI Paid Tiers, etc.) may be a violation of the model creators' licenses, as the cloud provider is profiting from the execution of non-commercial software. These scripts are provided for personal, educational, and research purposes on **FREE tiers only**. I am not affiliated with the Original FaceFusion team. This is a community-maintained deployment guide. Check [this GitHub Repo License](https://github.com/Nick088Official/FaceFusion-Online-Ports/blob/main/README.md), [FaceFusion GitHub Repo License](https://github.com/facefusion/facefusion/blob/main/LICENSE.md), the [Official FaceFusion Documentation on the Models' Licenses](https://docs.facefusion.io/introduction/licenses).
+
 # Usage
 
 ## Lightning AI
@@ -49,6 +54,7 @@ Credits: I didn't make everything alone, every port has his own credits in it, e
 - [Run UI **(WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT)** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-ui/notebook)
 
 - [Run NO UI ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nick088/facefusion-headless-no-ui/notebook)
+
 
 # FAQ
 
